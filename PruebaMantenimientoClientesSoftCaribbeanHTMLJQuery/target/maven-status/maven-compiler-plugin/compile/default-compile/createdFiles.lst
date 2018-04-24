@@ -1,0 +1,12 @@
+com\softcaribbean\controller\ClienteControllerImpl.class
+com\softcaribbean\dao\ClienteDAOImpl.class
+com\softcaribbean\ServletInitializer.class
+com\softcaribbean\service\ClienteServiceImpl.class
+com\softcaribbean\filter\SimpleCORSFilter.class
+softcaribbean\com\converter\LocalDatePersistenceConverter.class
+com\softcaribbean\repository\ClienteRepository.class
+com\softcaribbean\dao\ClienteDAO.class
+com\softcaribbean\MyApplication.class
+com\softcaribbean\controller\ClienteController.class
+com\softcaribbean\entity\Cliente.class
+com\softcaribbean\service\ClienteService.class
